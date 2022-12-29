@@ -1,0 +1,30 @@
+.main-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  padding: 4px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.heading {
+  color: #334155;
+  font-size: 22px;
+  border-bottom: 2px solid #52bbf0;
+  display: inline-block;
+}
+.loader {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0%;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 25px;
+}

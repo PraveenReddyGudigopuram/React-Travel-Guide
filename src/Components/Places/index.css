@@ -1,0 +1,26 @@
+.list-item {
+  width: 48%;
+  height: 400px;
+  margin: 10px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.place-desc {
+  text-align: left;
+  padding: 0px 15px;
+}
+.places-img {
+  width: 100%;
+}
+.place-name {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 500;
+}
+.desc {
+  color: #64748b;
+  font-size: 14px;
+}
